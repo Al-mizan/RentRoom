@@ -1,0 +1,2 @@
+RoomRentalSystem roomSystem;
+    roomSystem.s
