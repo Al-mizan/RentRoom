@@ -63,7 +63,7 @@ public:
         // throw runtime_error("Login failed");
     }
 
-    // void addingRoom() {}
+    
 
-    // void viewRoom() {}
+    
 };
