@@ -1,4 +1,4 @@
-====================================== RentEase ================================================
+================================== RentEase ==========================================
 
 RentEase is a comprehensive room rental system designed to address the housing needs of students living near the university. Developed as a C++ project, RentEase offers an intuitive platform for students to find suitable rental accommodations, property owners to list their rooms, and administrators to manage the system effectively.
 Built upon the principles of efficiency and accessibility, RentEase endeavors to bridge the gap between students seeking suitable housing options and property owners looking to rent out their spaces. By providing a centralized hub for rental listings and management, RentEase empowers both students and property owners to navigate the rental market with ease and confidence.
